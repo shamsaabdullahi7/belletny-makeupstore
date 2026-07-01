@@ -61,7 +61,7 @@ Belletny is a full-stack MERN e-commerce application for a luxury beauty brand. 
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 belletny-makeupstore/
@@ -94,7 +94,7 @@ belletny-makeupstore/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository
 
@@ -134,7 +134,7 @@ npm run dev
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create a `.env` file inside the backend folder.
 
