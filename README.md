@@ -1,4 +1,4 @@
-# 💄 Belletny Luxury Makeup Store
+# Belletny Luxury Makeup Store
 
 Belletny is a full-stack MERN e-commerce application for a luxury beauty brand. Customers can browse premium makeup products, create an account, manage their wishlist and shopping cart, securely place orders and track their purchases. Administrators can manage products and customer orders through a dedicated dashboard.
 
