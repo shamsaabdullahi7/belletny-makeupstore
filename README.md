@@ -37,7 +37,7 @@ Belletny is a full-stack MERN e-commerce application for a luxury beauty brand. 
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Frontend
 
