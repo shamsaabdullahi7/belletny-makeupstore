@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #35312d;
+  --color-cream: #f7f3ef;
+  --color-rose: #c84a3a;
+  --color-champagne: #e8ddd3;
+  --color-porcelain: #f2eeea;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-sans: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background: #f7f3ef;
+  color: #35312d;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.luxury-field {
+  @apply w-full rounded-none border border-ink/15 bg-porcelain px-4 py-3 text-sm text-ink outline-none transition focus:border-rose focus:ring-2 focus:ring-rose/20;
+}
+
+.luxury-label {
+  @apply text-xs font-semibold uppercase tracking-[0.18em] text-ink/60;
+}
+
+.page-shell {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.section-title {
+  @apply font-display text-3xl leading-tight text-ink sm:text-4xl;
+}
+
+.eyebrow {
+  @apply text-xs font-bold uppercase tracking-[0.28em] text-rose;
+}
+
+::selection {
+  background: #c84a3a;
+  color: #f7f3ef;
+}
