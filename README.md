@@ -1,6 +1,6 @@
 # Belletny Luxury Makeup E-Commerce
 
-Production-ready MERN storefront for a premium beauty brand, with JWT auth, product catalog filters, cart context, admin CRUD, MongoDB/Mongoose, and Cloudinary image uploads.
+Production-ready MERN storefront for a premium beauty brand, with JWT auth, product catalog filters, cart context, admin CRUD, MongoDB/Mongoose and Cloudinary image uploads.
 
 ## Tech Stack
 
