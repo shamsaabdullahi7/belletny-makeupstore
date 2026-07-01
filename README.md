@@ -90,3 +90,4 @@ Then log in and visit `/admin`.
 
 The shop includes a small demo product fallback so the luxury storefront renders before you seed MongoDB. Real products from `/api/products` automatically replace it once records exist.
 # belletny-makeupstore
+# belletny-makeupstore
